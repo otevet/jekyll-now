@@ -1,8 +1,3 @@
----
-layout: post
-title: Hello World!
----
-
 This post will dicuss the impressions from the first week at Metis Data Science bootcamp.
 
 After many months of planning, researching and preparing, the summer cohort at Metis Data Science bootcamp finally started!
@@ -16,8 +11,3 @@ After the first project was presented and delivered, we began focusing on our ma
 As the second week at Metis comes to an end, I am extremely happy with my decision to go with this particular bootcamp. The instructors and teaching assistant, administrative staff, and fellow classmates are all professional, positive, and smart- exactly the type of people who inspire you to learn and grow. 
 
 I am thrilled and honored to be at Metis, and can't wait to gain more knowledge, work on exciting projects, and build a strong foundation as a data scientist. Stay tuned for more updates from my journey in data science!
-
-
-#![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
