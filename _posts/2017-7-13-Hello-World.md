@@ -1,4 +1,4 @@
-This post will dicuss the impressions from the first week at Metis Data Science bootcamp.
+This post will discuss the impressions from the first week at Metis Data Science bootcamp.
 
 
 After many months of planning, researching and preparing, the summer cohort at Metis Data Science bootcamp finally started!
