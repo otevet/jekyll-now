@@ -81,7 +81,7 @@ p {
   opacity: 0.8;
 }
 .button.primary {
-  background-color: #ffcb3c;
+  background-color: #3c5fff;
   color: #fff;
 }
 .button.primary.inverted {
@@ -255,7 +255,7 @@ input.inverted::placeholder {
   }
 }
 .block-hero-2 {
-  --bg: #ffcb3c;
+  --bg: #3c5fff;
   --text: #fff;
   -ms-flex-direction: column;
   flex-direction: column;
